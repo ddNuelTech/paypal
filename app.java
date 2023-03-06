@@ -6,3 +6,4 @@ NodeJS applications
 >>>>>>> development
 python applications 
 web applications 
+bug removed 
